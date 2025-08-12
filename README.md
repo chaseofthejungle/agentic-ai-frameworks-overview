@@ -1,4 +1,4 @@
-# agentic-ai-frameworks-overview
+# Agentic AI Frameworks Overview
 **TODO:** A brief introductory guide to seven Agentic AI frameworks.
 
 ### Table of Contents
@@ -26,6 +26,8 @@
 
 ## 2. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[Agentic AI and AI Agents Overview](https://github.com/chaseofthejungle/agentic-ai-and-ai-agents-overview)*
+* *[AI Architecture Model Overview Guide](https://github.com/chaseofthejungle/AI-Architecture-Model-Overview)*
+* *[Four AI Model Types Overview Guide](https://github.com/chaseofthejungle/four-ai-models-overview)*
 
 <hr />
