@@ -14,7 +14,7 @@
 
 | Agentic Framework | Characteristics | Strengths | Examples |
 | :-----: | :-----: | :-----: | :-----: |
-| **ADK** | | | |
+| **ADK** | Develops/Deploys Modular and Sophisticated AI Agents | Open-Source, Multi-Agent Capabilities, Multi-Model Support, Pre-Built Tools and Tool-Integration Ready, Flexible Orchestration, Real-Time Streaming | Autonomous and Conversational Knowledge, Shopping, and Support Assistants |
 | **AutoGPT** | | | |
 | **CrewAI** | | | |
 | **LangGraph** | | | |
